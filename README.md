@@ -1,2 +1,4 @@
 # web-claw
-claw something usefor imformation from web.
+Claw something usefor imformation from web.  
+
+Like claw the content from Baidu Serp.
